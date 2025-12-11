@@ -3,12 +3,11 @@ name: CI
 on: [ push, pull_request ]
 
 jobs:
-  native-compilation:
-   runs-on: windows-latest
-    name: Native Compilation
-    steps:
-      - uses: actions/checkout@v4
-
+ native-compilation:
+      runs-on: windows-latest
+      name: Native Compilation
+      steps:
+        - uses: actions/checkout@v4
       - name: Check CMake version
         run: cmake --version
 
