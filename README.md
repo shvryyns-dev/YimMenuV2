@@ -12,7 +12,7 @@ Experimental menu for GTA 5: Enhanced
 
 ## How to open the menu?
 
-Press the `INSERT` key or `Ctrl+\` to open the menu
+Press the `INSERT` key or `Ctrl+\` to open the menu ..
  
 ## Common issues
 
